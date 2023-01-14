@@ -11,7 +11,7 @@
  * <LI>vagoni massimi
  * </UL>
  * 
- * versione 2
+ * versione 3
  */
 
 public class Treno {
